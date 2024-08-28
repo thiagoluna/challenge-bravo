@@ -1,14 +1,14 @@
 <h2 align="center">
-    <img src="https://avatars1.githubusercontent.com/u/7063040?v=4&s=200.jpg" alt="Hurb" width="24" /> Desafio Bravo
+   Conversor de Moedas
 </h2>
 
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- [PHP 7.4](https://php.net)
-- [Laravel 8](https://laravel.com)
-- [MySQL 5.7](https://mysql.com)
+- [PHP](https://php.net)
+- [Laravel](https://laravel.com)
+- [MySQL](https://mysql.com)
 - [Docker](https://docker.com)
 - [Redis](https://redis.io)
 - [Swagger](https://github.com/DarkaOnLine/L5-Swagger)
